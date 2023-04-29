@@ -1,0 +1,15 @@
+C:\Users\kenne\source\repos\ProyectoJuego\bin\Debug\net7.0\ProyectoJuego.exe
+C:\Users\kenne\source\repos\ProyectoJuego\bin\Debug\net7.0\ProyectoJuego.deps.json
+C:\Users\kenne\source\repos\ProyectoJuego\bin\Debug\net7.0\ProyectoJuego.runtimeconfig.json
+C:\Users\kenne\source\repos\ProyectoJuego\bin\Debug\net7.0\ProyectoJuego.dll
+C:\Users\kenne\source\repos\ProyectoJuego\bin\Debug\net7.0\ProyectoJuego.pdb
+C:\Users\kenne\source\repos\ProyectoJuego\obj\Debug\net7.0\ProyectoJuego.csproj.AssemblyReference.cache
+C:\Users\kenne\source\repos\ProyectoJuego\obj\Debug\net7.0\ProyectoJuego.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kenne\source\repos\ProyectoJuego\obj\Debug\net7.0\ProyectoJuego.AssemblyInfoInputs.cache
+C:\Users\kenne\source\repos\ProyectoJuego\obj\Debug\net7.0\ProyectoJuego.AssemblyInfo.cs
+C:\Users\kenne\source\repos\ProyectoJuego\obj\Debug\net7.0\ProyectoJuego.csproj.CoreCompileInputs.cache
+C:\Users\kenne\source\repos\ProyectoJuego\obj\Debug\net7.0\ProyectoJuego.dll
+C:\Users\kenne\source\repos\ProyectoJuego\obj\Debug\net7.0\refint\ProyectoJuego.dll
+C:\Users\kenne\source\repos\ProyectoJuego\obj\Debug\net7.0\ProyectoJuego.pdb
+C:\Users\kenne\source\repos\ProyectoJuego\obj\Debug\net7.0\ProyectoJuego.genruntimeconfig.cache
+C:\Users\kenne\source\repos\ProyectoJuego\obj\Debug\net7.0\ref\ProyectoJuego.dll
